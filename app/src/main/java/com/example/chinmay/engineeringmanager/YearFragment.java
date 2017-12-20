@@ -12,7 +12,7 @@ import android.widget.Toast;
  * Created by chinmay on 17/12/17.
  */
 
-public class YearFragment extends Fragment {
+public class YearFragment {
 
     @Nullable
     @Override   //Links  .java file to its .xml

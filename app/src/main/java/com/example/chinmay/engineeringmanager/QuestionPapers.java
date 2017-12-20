@@ -1,6 +1,5 @@
 package com.example.chinmay.engineeringmanager;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,7 +13,7 @@ import android.widget.Toast;
  * Created by chinmay on 17/12/17.
  */
 
-public class QuestionPapers extends Fragment {
+public class QuestionPapers {
 
 
     @Nullable
